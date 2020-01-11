@@ -23,3 +23,4 @@ What you need to do:
 
 
 The solution is provided in the Spark Notebook with the extension ipynb.
+ Please use jupyter notebook to run and test code.

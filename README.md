@@ -19,3 +19,7 @@ What you need to do:
 
 4- Adding more Features  
 • find the correlation between average_stars and rating columns. You can use stat.corr(col1,col2) 
+
+
+
+The solution is provided in the Spark Notebook with the extension ipynb.
